@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "testapp001",
-    "slug": "testapp001",
+    "name": "JakubFrancuzStoreApp1",
+    "slug": "JakubFrancuzStoreApp1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,6 +20,8 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.projekty.jakubfrancuz.storeapp1",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
