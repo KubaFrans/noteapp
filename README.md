@@ -1,5 +1,5 @@
 # noteapp
-Application for creating and managing notes (Expo)
+Application for creating and managing notes in React Native (Expo)
 
 This app allows to:
 - create and store notes using SecureStore
